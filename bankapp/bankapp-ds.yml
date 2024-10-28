@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: bankapp
-        image: khoi2010/bankapp:20
+        image: khoi2010/bankapp:25
         ports:
         - containerPort: 8080
         env:
